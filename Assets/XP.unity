@@ -405,6 +405,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1157400861}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3616176f07cf2f74b878856dfa1d72ec, type: 3}
+  m_Script: {fileID: 11500000, guid: a1ffe7c58bcfb664ea79f89d5d99c88a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  level: 0
+  curEXP: 0
+  reqEXP: 0
+  Xpamount: 0
+  health: 0
+  defense: 0
+  speed: 0
+  attack: 0
